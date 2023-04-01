@@ -1,4 +1,4 @@
-- [Data Collection from the Web using APIs and web scraping techniques](https://github.com/ahurriyetoglu/text-processing-for-social-sciences/blob/main/practical_sessions/Practical_Session-Data_Collection.ipynb)
+- [Data Collection from the Web using APIs and web scraping techniques](https://github.com/ahurriyetoglu/text-processing-for-social-sciences/blob/main/practical_sessions/1-Data_Collection/Practical_Session-Data_Collection.ipynb)
     - Table of Contents:
         1. Twitter API
             - Authentication
