@@ -1,0 +1,5 @@
+emoji==2.4.0
+nltk==3.7
+pandas==1.4.3
+unicode-tr==0.6.1
+sklearn==1.1.1
